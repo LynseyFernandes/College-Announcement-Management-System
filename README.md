@@ -103,6 +103,6 @@ project-folder/
 
 This project was collaboratively developed by:
 
-- Emil Therese (@EmilTherese)
-- Lynsey Fernandes (@LynseyFernandes)
-- Neelaja Jadhav (@jadhavneelaja-byte)
+- Emil Therese (https://github.com/EmilTherese)
+- Lynsey Fernandes (https://github.com/LynseyFernandes)
+- Neelaja Jadhav (https://github.com/jadhavneelaja-byte)
